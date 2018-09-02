@@ -1,0 +1,4 @@
+dI/dV(siemens) in the 2D array
+X_axis: Vdc from 500(microvolts) to -500(microvolts)
+Y_axis: ne from 0(cm-2) to -3.05e-12(cm-2)
+Data of both axses are in a file called: "inset_axses"
