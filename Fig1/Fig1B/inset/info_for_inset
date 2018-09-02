@@ -1,0 +1,5 @@
+Rxx(Ohm) in 2D array
+X_axis: Vt from 4V to -4V
+Y_axis: Vb from 70V to -70V
+
+Data for both axses are in the file "inset_axses"
